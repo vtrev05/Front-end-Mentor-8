@@ -1,0 +1,13 @@
+@import "../utilities/colors";
+
+.container{
+    margin: 0 auto;
+    z-index: 999;
+    width: 70%;
+}
+body{
+    background-color: $pale-blue-primary-color;
+}
+.background__image{
+    z-index: -1;
+}
